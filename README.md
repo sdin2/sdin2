@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniel Avila</h1>
 <h3 align="center">A passionate  full-stack web developer from Argentina, </h3>
 
-- about me: **I think im a person who can adapt and sociable, i always try to think, analyse and solve problems...**
+- about me: **I think im a sociable person who can adapt, i always try to think, analyse and solve problems**
 
 <h3 align="left">Connect with me:</h3>
 - mail: **desat_94@gmail.com**
